@@ -5,6 +5,8 @@
 [Dragonbones](http://www.dragonbones.com/cn/index.html)是一2D骨架系統
 全中文，免費，跨平台
 
+![](https://github.com/PeterLukGit/Unity-DragonBones-Exercise/blob/master/%E5%9C%96%E7%89%871.png)
+
 # 責任聲明：
 
 [Blog位置](https://peterlukgit.github.io/)
